@@ -1,0 +1,18 @@
+C:\ProjetosC#\SisCurso\src\DTO\bin\Debug\netstandard2.0\DTO.deps.json
+C:\ProjetosC#\SisCurso\src\DTO\bin\Debug\netstandard2.0\DTO.dll
+C:\ProjetosC#\SisCurso\src\DTO\bin\Debug\netstandard2.0\DTO.pdb
+C:\ProjetosC#\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache
+C:\ProjetosC#\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
+C:\ProjetosC#\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
+C:\ProjetosC#\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.dll
+C:\ProjetosC#\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.pdb
+C:\ProjetosC#\VS Code\SisCurso\src\DTO\bin\Debug\netstandard2.0\DTO.deps.json
+C:\ProjetosC#\VS Code\SisCurso\src\DTO\bin\Debug\netstandard2.0\DTO.dll
+C:\ProjetosC#\VS Code\SisCurso\src\DTO\bin\Debug\netstandard2.0\DTO.pdb
+C:\ProjetosC#\VS Code\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache
+C:\ProjetosC#\VS Code\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
+C:\ProjetosC#\VS Code\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
+C:\ProjetosC#\VS Code\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\VS Code\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.dll
+C:\ProjetosC#\VS Code\SisCurso\src\DTO\obj\Debug\netstandard2.0\DTO.pdb

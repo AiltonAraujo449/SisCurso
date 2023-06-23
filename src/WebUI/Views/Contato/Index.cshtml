@@ -1,0 +1,45 @@
+@model IEnumerable<WebUI.Models.ContatoViewModel>
+
+@* <partial name="_AlertMessagePartial"/> *@
+@await Html.PartialAsync("_AlertMessagePartial")
+
+<a asp-controller="Contato" asp-action="Create">Adicionar</a>
+
+<table class = "table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sobrenome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>                
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sobrenome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    <a asp-controller="Contato" asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
+                    <a asp-controller="Contato" asp-action="Update" asp-route-id="@item.Id">Atualizar</a>
+                    <a asp-controller="Contato" asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

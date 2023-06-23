@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gyvu4rYMlpBxZS1c6Sp8Cfh4gUUVYdP1W6rLCC8mg7yEJNs1JlykMVFcYuMe7+0PT1J64CIDrNSpxORbRMqO3w==",
+  "success": true,
+  "projectFilePath": "C:\\ProjetosC#\\VS Code\\SisCurso\\src\\WebUI\\WebUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ailto\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.5.0\\runtime.native.system.data.sqlclient.sni.4.5.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.113.2\\stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\system.data.sqlclient\\4.6.0\\system.data.sqlclient.4.6.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.7\\system.data.sqlite.core.1.0.113.7.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

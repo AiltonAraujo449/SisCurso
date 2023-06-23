@@ -1,0 +1,24 @@
+C:\ProjetosC#\SisCurso\src\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\ProjetosC#\SisCurso\src\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\ProjetosC#\SisCurso\src\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\ProjetosC#\SisCurso\src\DAO\bin\Debug\netstandard2.0\DTO.dll
+C:\ProjetosC#\SisCurso\src\DAO\bin\Debug\netstandard2.0\DTO.pdb
+C:\ProjetosC#\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\ProjetosC#\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\ProjetosC#\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\ProjetosC#\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\ProjetosC#\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\ProjetosC#\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\bin\Debug\netstandard2.0\DTO.dll
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\bin\Debug\netstandard2.0\DTO.pdb
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\ProjetosC#\VS Code\SisCurso\src\DAO\obj\Debug\netstandard2.0\DAO.pdb

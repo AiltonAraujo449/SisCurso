@@ -1,0 +1,62 @@
+@model WebUI.Models.ContatoViewModel
+
+<partial name="_AlertMessagePartial"/>
+
+<form asp-action="Create">
+    <input asp-for="Id" hidden>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="form-group">
+                <label asp-for="Nome">@Html.DisplayNameFor(model => model.Nome)</label>
+                <input asp-for="Nome" class="form-control" disabled/>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="form-group">
+                <label asp-for="Sobrenome">@Html.DisplayNameFor(model => model.Sobrenome)</label>
+                <input asp-for="Sobrenome" class="form-control" disabled/>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="form-group">
+                <label asp-for="Email">@Html.DisplayNameFor(model => model.Email)</label>
+                <input asp-for="Email" class="form-control" disabled/>
+            </div>
+        </div>
+        
+        <div class="col-lg-6">
+            <a asp-controller="Telefone" asp-action="Create" asp-route-id="@Model.Id">Adicionar Telefone</a>
+        </div>
+        <div class="col-lg-6">
+            <a asp-controller="Contato" asp-action="Index" asp-route-id="@Model.Id">Voltar</a>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LstTelefoneViewModel[0].Numero)
+            </th>
+            <th>                
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.LstTelefoneViewModel)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Numero)
+                </td>
+                <td>
+                    <a asp-controller="Telefone" asp-action="Delete" asp-route-contatoId="@Model.Id" asp-route-id="@item.Id">Excluir</a>
+                    <a asp-controller="Telefone" asp-action="Update" asp-route-id="@item.Id">Atualizar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

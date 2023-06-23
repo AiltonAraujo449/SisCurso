@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aN8sF0hTE2R9k0chCJ/OHOuojkBF1hmBe4XMii2EXQjgesjpJrBXOywvSxB1FGGV6DIKSBDrT3udo1CPTC8Rg==",
+  "success": true,
+  "projectFilePath": "C:\\ProjetosC#\\VS Code\\SisCurso\\src\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ailto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ailto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
